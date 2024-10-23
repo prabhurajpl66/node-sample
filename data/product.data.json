@@ -1,0 +1,14 @@
+[
+    {
+      "id": 1,
+      "product": "Smart watch",
+      "desc": "smart watch with wrist band",
+      "price": "2500"
+    },
+    {
+        "id": 1,
+        "product": "Analog",
+        "desc": "Analog watch",
+        "price": "1500"
+    }
+]
